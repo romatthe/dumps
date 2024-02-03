@@ -16,11 +16,10 @@ Common Disc Info:
 
 	Ringcode Information:
 
-Data Side Mastering Code (laser branded/etched): 00095 51200 284 02 + 51200499
+Data Side Mastering Code (laser branded/etched): 00095	51200 284	02 + 51200499
 Data Side Mastering SID Code: IFPI L002
-Data Side Toolstamp or Mastering Code (engraved/stamped): (REQUIRED, IF EXISTS)
 Data Side Mould SID Code: IPFI 0133
-Data Side Additional Mould: MADE IN GERMANY BY UNIVERSAL M & L   G
+Data Side Additional Mould: MADE IN GERMANY BY UNIVERSAL M & L	G
 
 	Barcode: 3 348542 111356 > (UK, Big Box)
 	         3 348542 135413 > (UK, Jewel Case)
