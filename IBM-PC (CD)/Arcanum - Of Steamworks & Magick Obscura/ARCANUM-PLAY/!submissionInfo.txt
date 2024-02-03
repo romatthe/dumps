@@ -1,0 +1,77 @@
+Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Arcanum: Of Steamworks & Magick Obscura
+	Disc Number / Letter: 2
+	Disc Title: Play Disk
+	System: IBM PC compatible
+	Media Type: CD-ROM
+	Category: Games
+	Fully Matching ID: 10898
+	Region: Europe
+	Languages: English
+	Disc Serial: S0023430
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): 00095 51200 284 02 + 51200499
+Data Side Mastering SID Code: IFPI L002
+Data Side Toolstamp or Mastering Code (engraved/stamped): (REQUIRED, IF EXISTS)
+Data Side Mould SID Code: IPFI 0133
+Data Side Additional Mould: MADE IN GERMANY BY UNIVERSAL M & L   G
+
+	Barcode: 3 348542 111356 > (UK, Big Box)
+	         3 348542 135413 > (UK, Jewel Case)
+	Error Count: 0
+
+Version and Editions:
+	Version: 1.0.6.4
+	Edition/Release: Original, Big Box
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 31 30 37 31 32 31 34 30  37 30 36 30 30 00 32 30   1071214070600.20
+0340 : 30 31 30 37 31 32 31 34  30 37 30 36 30 30 00 30   01071214070600.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 04   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 04 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+	Copy Protection: None found [OMIT FROM SUBMISSION]
+	SubIntention Data (SecuROM/LibCrypt):
+
+MSF: 01:08:50 Q-Data: 410101 21:06:50 00 05:08:50 0A8F
+MSF: 01:29:39 Q-Data: 410101 03:27:39 00 41:29:39 03DF
+MSF: 02:00:29 Q-Data: 410101 00:58:29 00 82:00:29 7005
+MSF: 02:15:30 Q-Data: 410101 02:17:30 00 02:35:30 D28D
+MSF: 02:31:53 Q-Data: 410101 00:29:53 00 42:31:53 1AEA
+MSF: 02:34:38 Q-Data: 410101 02:30:38 00 02:74:38 14D7
+MSF: 03:28:58 Q-Data: 410101 03:26:5C 00 03:28:78 B4C7
+MSF: 03:36:67 Q-Data: 410101 03:30:67 00 03:16:67 ABD4
+MSF: 03:42:31 Q-Data: 410101 03:50:31 00 03:4A:31 CEF0
+MSF: 04:01:44 Q-Data: 410101 01:59:44 00 44:01:44 517A
+
+Tracks and Write Offsets:
+	DAT:
+
+<rom name="ARCANUM-PLAY.bin" size="771354864" crc="69b30225" md5="1278cacd4d0f1001c1382d6e89d14556" sha1="4c89a1848a74d259502bc0b3404a087c9c89a670" />
+
+	Cuesheet:
+
+FILE "ARCANUM-PLAY.bin" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00
+
+	Write Offset: -647
+
+Dumping Info:
+	Dumping Program: Redumper v2024.01.10 build_313
+	Date: 2024-02-03 17:03:02
+	Manufacturer: ASUS
+	Model: BW-16D1HT
+	Firmware: 3.10 (WM01601KL1N7F81700)
+	Reported Disc Type: CD-ROM
