@@ -1,0 +1,63 @@
+Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Baldur's Gate
+	Disc Number / Letter: 3
+	Disc Title: Disc 3/5
+	System: IBM PC compatible
+	Media Type: CD-ROM
+	Category: Games
+	Fully Matching ID: 8717
+	Region: Europe
+	Languages: English
+	Disc Serial: CD-W95-625-E3
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): E3CDW95625	SONOPRESS
+Data Side Mastering SID Code: IFPI L041
+Data Side Toolstamp or Mastering Code (engraved/stamped): :1:1:12:
+Data Side Mould SID Code: IFPI 1429
+
+	Barcode: 5 026102 001894 (Dutch, Big Box)
+	Error Count: 0
+	Comments:
+		Digipack Serial: CDH-W95-625-GEN
+		Big Box Serial: FG-W95-625-DU
+
+Version and Editions:
+	Version: 1.0.4309
+	Edition/Release: Original, Big Box (Dutch)
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 31 39 39                199
+0330 : 38 31 32 31 38 31 39 30  36 31 36 39 33 E5 31 39   8121819061693.19
+0340 : 39 38 31 32 31 38 31 39  30 36 35 33 34 30 C0 00   98121819065340..
+0350 : 00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+0360 : 00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Tracks and Write Offsets:
+	DAT:
+
+<rom name="BG-DISC3.bin" size="667904496" crc="43d33c91" md5="fb78f6afe321c769f27a426b0685adfc" sha1="46ad07b1f2f8237d43a839d24f49d95a4a81d366" />
+
+	Cuesheet:
+
+FILE "BG-DISC3.bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+
+	Write Offset: -22
+
+Dumping Info:
+	Dumping Program: Redumper v2024.01.10 build_313
+	Date: 2024-02-03 23:35:23
+	Manufacturer: ASUS
+	Model: BW-16D1HT
+	Firmware: 3.10 (WM01601KL1N7F81700)
+	Reported Disc Type: CD-ROM
