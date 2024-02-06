@@ -1,0 +1,61 @@
+Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Baldur's Gate: Tales of the Sword Coast
+	System: IBM PC compatible
+	Media Type: CD-ROM
+	Category: Add-Ons
+	Fully Matching ID: 67717
+	Region: Europe
+	Languages: English
+	Disc Serial: CD-W95-898-E
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): SONOPRESS ROM Z-5594-2/ W95-898-E K
+Data Side Mastering SID Code: IFPI LB 45
+Data Side Mould SID Code: IFPI 0714
+
+	Barcode: 5 026102 002037 (UK, Big Box)
+	Error Count: 0
+	Comments:
+		Jewel Case Serial: INL-W95-898-GEN
+		Jewel Case Booklet Serial: BLK-W95-898-GEN 
+		Big Box Serial: FG-W95-898-E
+
+Version and Editions:
+	Version: 1.3.5508
+	Edition/Release: Original, Big Box (UK)
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 31 39 39                199
+0330 : 39 30 34 32 39 31 38 30  38 34 32 30 30 FC 31 39   9042918084200.19
+0340 : 39 39 30 34 32 39 31 38  30 38 34 32 30 30 FC 32   99042918084200.2
+0350 : 39 39 39 30 34 32 39 31  38 30 38 34 30 30 30 FC   999042918084000.
+0360 : 31 39 39 39 30 34 32 39  31 38 30 38 34 30 30 30   1999042918084000
+0370 : FC 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Tracks and Write Offsets:
+	DAT:
+
+<rom name="BG-TOTSC.bin" size="713606208" crc="2a383aa6" md5="3c43480e3a483ab0f596aabe88c487b7" sha1="7178d31de1a23e01db4764cfc443c87de6a9cc82" />
+
+	Cuesheet:
+
+FILE "BG-TOTSC.bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+
+	Write Offset: -12
+
+Dumping Info:
+	Dumping Program: Redumper v2024.01.10 build_313
+	Date: 2024-02-04 01:17:38
+	Manufacturer: ASUS
+	Model: BW-16D1HT
+	Firmware: 3.10 (WM01601KL1N7F81700)
+	Reported Disc Type: CD-ROM
