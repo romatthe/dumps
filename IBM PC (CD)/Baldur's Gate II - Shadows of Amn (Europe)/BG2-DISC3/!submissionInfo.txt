@@ -1,0 +1,63 @@
+Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Baldur's Gate II: Shadows of Amn
+	Disc Number / Letter: 3
+	Disc Title: CD3
+	System: IBM PC compatible
+	Media Type: CD-ROM
+	Category: Games
+	Fully Matching ID: 1803
+	Region: Europe
+	Languages: English
+	Disc Serial: CD-C95-1098-E3
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): SONOPRESS ROM A-34766/ C951098E3 A
+Data Side Mastering SID Code: IFPI LB 47
+Data Side Mould SID Code: IFPI 0788
+
+	Barcode: 5 026102 004130 (English, Big Box)
+	Error Count: 0
+	Comments:
+		Jewel Case Front Serial: BLK-C95-1098-GEN
+		Jewel Case Back Serial: INL-C95-1098-GEN
+		Big Box Serial: U-FG-C95-1098-E
+
+Version and Editions:
+	Version: 1.3.0.1
+	Edition/Release: Original, Big Box (English)
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 30 30 39 30 32 30 34 34  36 30 30 30 30 E4 32 30   0090204460000.20
+0340 : 30 30 30 39 30 32 30 34  34 36 30 30 30 30 E4 30   00090204460000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Tracks and Write Offsets:
+	DAT:
+
+<rom name="BG2-DISC3.bin" size="783171312" crc="1603b23a" md5="61f7de3844d09882a9a18ed28dc6128c" sha1="ea4ad996bc42543a8803f25fdf9f30f187a70330" />
+
+	Cuesheet:
+
+FILE "BG2-DISC3.bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+
+	Write Offset: -12
+
+Dumping Info:
+	Dumping Program: Redumper v2024.01.10 build_313
+	Date: 2024-02-04 02:32:02
+	Manufacturer: ASUS
+	Model: BW-16D1HT
+	Firmware: 3.10 (WM01601KL1N7F81700)
+	Reported Disc Type: CD-ROM
