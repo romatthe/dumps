@@ -1,0 +1,64 @@
+Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Close Combat III: The Russian Front
+	Disc Number / Letter: 1
+	System: IBM PC compatible
+	Media Type: CD-ROM
+	Category: Games
+	Fully Matching ID: 67864
+	Region: Europe
+	Languages: English
+	Disc Serial: 1098 Part No. X03-86743
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): DADC X03-86742 14
+Data Side Mastering SID Code: IFPI L554
+Data Side Toolstamp or Mastering Code (engraved/stamped): A5
+Data Side Mould SID Code: IFPI 94Z8
+
+	Barcode: 6 59556 07017 5 (English, Big Box)
+	Error Count: 0
+	Comments:
+		Jewel Case labelled as "CD SET X03-96768"
+		Box Labelled as "Origin: Ireland"
+
+[T:VOL] /run/media/romatthe/CC3_TRF/
+
+Version and Editions:
+	Version: 3.0
+	Edition/Release: Original, Big Box (English)
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 31 39 39                199
+0330 : 38 31 32 31 31 31 32 30  36 30 38 30 30 E0 31 39   8121112060800.19
+0340 : 39 38 31 32 31 31 31 32  30 36 30 38 30 30 E0 32   98121112060800.2
+0350 : 30 30 38 31 32 31 31 31  32 30 36 30 38 30 30 E0   008121112060800.
+0360 : 31 39 39 38 31 32 31 31  31 32 30 36 30 38 30 30   1998121112060800
+0370 : E0 01 00 43 44 20 52 65  70 20 31 2E 35 2E 30 39   ...CD Rep 1.5.09
+
+Tracks and Write Offsets:
+	DAT:
+
+<rom name="CC3.bin" size="718521888" crc="e27973e3" md5="5db7f664b5617ffdb734d3e8926ca278" sha1="388324d2e74ea9f80c6c6b97aefb6e0c0343e969" />
+
+	Cuesheet:
+
+FILE "CC3.bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+
+	Write Offset: -22
+
+Dumping Info:
+	Dumping Program: Redumper v2024.01.10 build_313
+	Date: 2024-02-04 04:08:09
+	Manufacturer: ASUS
+	Model: BW-16D1HT
+	Firmware: 3.10 (WM01601KL1N7F81700)
+	Reported Disc Type: CD-ROM
