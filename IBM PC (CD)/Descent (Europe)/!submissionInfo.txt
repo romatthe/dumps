@@ -1,0 +1,58 @@
+Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Descent
+	System: IBM PC compatible
+	Media Type: CD-ROM
+	Category: Games
+	Fully Matching ID: 42721
+	Region: Europe
+	Languages: English
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): DISCTRONICS	S GAME 1 01	INTERPLAY
+Data Side Additional Mould: 8
+
+	Barcode: 5 026102 025036 (English, Big Box) 
+	Error Count: 0
+
+[T:VOL] /run/media/romatthe/DESCENT/
+
+Version and Editions:
+	Version: 1.0
+	Edition/Release: Original, Big Box
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 31 39 39                199
+0330 : 35 30 32 31 35 31 37 35  35 34 35 30 30 00 31 39   5021517554500.19
+0340 : 39 35 30 32 31 35 31 37  35 35 34 35 30 30 00 00   95021517554500..
+0350 : 00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+0360 : 31 39 39 35 30 32 31 35  31 37 35 35 34 35 30 30   1995021517554500
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Tracks and Write Offsets:
+	DAT:
+
+<rom name="DESCENT1.bin" size="19857936" crc="47c0ae74" md5="23fee4e6484bcc0226aeb7dafd4bc174" sha1="27c31467bc56bcaa2b2d6d97c8a8a61c8c64b482" />
+
+	Cuesheet:
+
+CATALOG 0000000000000
+FILE "DESCENT1.bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+
+	Write Offset: +222
+
+Dumping Info:
+	Dumping Program: Redumper v2024.01.10 build_313
+	Date: 2024-02-05 19:56:25
+	Manufacturer: ASUS
+	Model: BW-16D1HT
+	Firmware: 3.10 (WM01601KL1N7F81700)
+	Reported Disc Type: CD-ROM
