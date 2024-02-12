@@ -1,0 +1,88 @@
+Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Dungeon Keeper
+	System: IBM PC compatible
+	Media Type: CD-ROM
+	Category: Games
+	Fully Matching ID: 9745
+	Partially Matching IDs: 65965, 71092
+	Region: Europe
+	Languages: Dutch, English, French, Polish, Spanish, Swedish
+	Disc Serial: BFX05100349D
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): NIMBUS	CDD17461 BFX05100346D
+Data Side Mastering SID Code: IFPI L123
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1:2
+Data Side Mould SID Code: IFPI 2304
+
+	Barcode: 5 030930 349448 > 
+	Error Count: 0
+	Comments:
+
+[T:VOL] /run/media/romatthe/KEEPER/
+
+Version and Editions:
+	Version: (REQUIRED, IF EXISTS)
+	Edition/Release: Original, Big Box (English)
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 31 39 39                199
+0330 : 37 30 36 31 34 31 36 33  30 33 36 30 30 20 31 39   7061416303600 19
+0340 : 39 37 30 36 31 34 31 36  33 30 33 36 30 30 20 00   97061416303600 .
+0350 : 00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+0360 : 00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Tracks and Write Offsets:
+	DAT:
+
+<rom name="KEEPER1 (Track 1).bin" size="357424032" crc="736acc46" md5="487e47b905bbb87bb62d7b81fbc9284c" sha1="b8d2405d94139865a9838c93535cd254727334e9" />
+<rom name="KEEPER1 (Track 2).bin" size="46200336" crc="bb3d4528" md5="e5dde9f21476e635617f9a11212f64bf" sha1="d09f2c1159991de2014f610a729d47117d2f1ced" />
+<rom name="KEEPER1 (Track 3).bin" size="57685152" crc="e3d74a9d" md5="5f1dfe51abcd2d64bb66f52b08104d9c" sha1="16166aa9d4268a26a067e63c6661a57f7a836635" />
+<rom name="KEEPER1 (Track 4).bin" size="54251232" crc="3cb4dc35" md5="8db3bf402faa209d687346f7b69c0c50" sha1="11ded595de9c3b23fcf1332c20f2026a79ab51fb" />
+<rom name="KEEPER1 (Track 5).bin" size="53077584" crc="96e91e72" md5="8de99c17bafd04e86fb4100c94867c0d" sha1="233aeea3a8613f5004900d7b81fab2e82deab24e" />
+<rom name="KEEPER1 (Track 6).bin" size="50563296" crc="0949dc05" md5="09554c229912f1aab20c373d06381c9e" sha1="202af7717cb4bd4d0af789eb41457832f7fdd240" />
+<rom name="KEEPER1 (Track 7).bin" size="33356064" crc="e0ef2e66" md5="59207ba7df090c62bd209e61ee411390" sha1="914c470a48f9e5a3d41103d8a7f24e27b6c2a9c4" />
+
+	Cuesheet:
+
+CATALOG 0000000000000
+FILE "KEEPER1 (Track 1).bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+FILE "KEEPER1 (Track 2).bin" BINARY
+  TRACK 02 AUDIO
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "KEEPER1 (Track 3).bin" BINARY
+  TRACK 03 AUDIO
+    INDEX 01 00:00:00
+FILE "KEEPER1 (Track 4).bin" BINARY
+  TRACK 04 AUDIO
+    INDEX 01 00:00:00
+FILE "KEEPER1 (Track 5).bin" BINARY
+  TRACK 05 AUDIO
+    INDEX 01 00:00:00
+FILE "KEEPER1 (Track 6).bin" BINARY
+  TRACK 06 AUDIO
+    INDEX 01 00:00:00
+FILE "KEEPER1 (Track 7).bin" BINARY
+  TRACK 07 AUDIO
+    INDEX 01 00:00:00
+
+	Write Offset: 0
+
+Dumping Info:
+	Dumping Program: Redumper v2024.01.10 build_313
+	Date: 2024-02-04 06:43:48
+	Manufacturer: ASUS
+	Model: BW-16D1HT
+	Firmware: 3.10 (WM01601KL1N7F81700)
+	Reported Disc Type: CD-ROM
