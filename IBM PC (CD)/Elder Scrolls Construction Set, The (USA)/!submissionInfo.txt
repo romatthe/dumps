@@ -18,7 +18,7 @@ Data Side Mastering SID Code: IFPI L028
 Data Side Mould SID Code: IFPI 1081
 
 	Barcode: 0 93155 11630 6 (Jewel Case, English)
-	Error Count: 574
+	Error Count: 0
 	Comments:
 
 [T:VOL] /run/media/romatthe/TES CS/
