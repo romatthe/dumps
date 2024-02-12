@@ -1,0 +1,60 @@
+Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: The Elder Scrolls III: Morrowind
+	System: IBM PC compatible
+	Media Type: CD-ROM
+	Category: Games
+	Fully Matching ID: 21802
+	Region: USA
+	Languages: English
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): (H4804) MORROWIND CD 1 02	Technicolor
+Data Side Mastering SID Code: IFPI L127
+Data Side Mould SID Code: IFPI 2406
+
+	Barcode: 0 93155 11630 6 (Jewel Case, English)
+	Error Count: 574
+	Comments:
+
+[T:VOL] /run/media/romatthe/MORROWIND/
+
+Version and Editions:
+	Version: 1.00.417
+	Edition/Release: Original, Cardboard Box
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 32 30 34 32 36 31 36 30  32 30 34 30 30 00 32 30   2042616020400.20
+0340 : 30 32 30 34 32 36 31 36  30 32 30 34 30 30 00 30   02042616020400.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Tracks and Write Offsets:
+	DAT:
+
+<rom name="TES3-DISC1 (Track 0).bin" size="174048" crc="422f0149" md5="9ef7fb08873e2ac96a7c7ea118802bf9" sha1="f6fa1cf0832ce6e7681506dabaf659fd8b86c3a3" />
+<rom name="TES3-DISC1.bin" size="788886672" crc="52b483c8" md5="2b602cc8367af59dc045865ae4cffaf4" sha1="4915cac13adb24901c6b4a6b8b96d9f4eaaccc33" />
+
+	Cuesheet:
+
+FILE "TES3-DISC1.bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+
+	Write Offset: -12
+
+Dumping Info:
+	Dumping Program: Redumper v2024.01.10 build_313
+	Date: 2024-02-12 12:22:06
+	Manufacturer: ASUS
+	Model: BW-16D1HT
+	Firmware: 3.10 (WM01601KL1N7F81700)
+	Reported Disc Type: CD-ROM
