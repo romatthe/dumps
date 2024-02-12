@@ -1,0 +1,59 @@
+Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: The Elder Scrolls Construction Set
+	System: IBM PC compatible
+	Media Type: CD-ROM
+	Category: Applications
+	Fully Matching ID: 21803
+	Region: USA
+	Languages: English
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): MW-CD2		+ + 	BB187-01
+Data Side Mastering SID Code: IFPI L028
+Data Side Mould SID Code: IFPI 1081
+
+	Barcode: 0 93155 11630 6 (Jewel Case, English)
+	Error Count: 574
+	Comments:
+
+[T:VOL] /run/media/romatthe/TES CS/
+
+Version and Editions:
+	Version: 1.20
+	Edition/Release: Original, Cardboard Box
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 32 30 34 31 38 31 38 35  33 30 30 30 30 F0 32 30   2041818530000.20
+0340 : 30 32 30 34 31 38 31 38  35 33 30 30 30 30 F0 30   02041818530000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Tracks and Write Offsets:
+	DAT:
+
+<rom name="TES3-DISC2.bin" size="717719856" crc="d1e71da6" md5="44dadfb50dd791c869f5ecbcc708a7fc" sha1="ed84046280ca25a8734c31c5e46fec0b259881da" />
+
+	Cuesheet:
+
+FILE "TES3-DISC2.bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+
+	Write Offset: -12
+
+Dumping Info:
+	Dumping Program: Redumper v2024.01.10 build_313
+	Date: 2024-02-12 12:33:14
+	Manufacturer: ASUS
+	Model: BW-16D1HT
+	Firmware: 3.10 (WM01601KL1N7F81700)
+	Reported Disc Type: CD-ROM
