@@ -1,0 +1,67 @@
+Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Divine Divinity
+	Disc Title: Game Disc
+	System: IBM PC compatible
+	Media Type: CD-ROM
+	Category: Games
+	Fully Matching ID: 79903
+	Region: USA, Europe
+	Languages: English
+	Disc Serial: Art.Nr.CDR7066/UK2
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): SONOPRESS 50483073/7066UK2DV3 01
+Data Side Mastering SID Code: IFPI LB 47
+Data Side Mould SID Code: IFPI 0781
+
+	Barcode: 4 015756 106162 (DVD Case, Dutch)
+	Error Count: 0
+	Comments:
+		DVD Case Serial: Art.Nr.CDR7066/BE2
+
+[T:VOL] /run/media/romatthe/LARIAN_DIV3/
+
+Version and Editions:
+	Version: (REQUIRED, IF EXISTS)
+	Edition/Release: Rerelease, Beyond Divinity Deluxe Edition
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 32 30 38 32 32 31 37 31  31 34 37 30 30 00 32 30   2082217114700.20
+0340 : 30 32 30 38 32 32 31 37  31 31 34 37 30 30 00 30   02082217114700.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+	Copy Protection: SafeDisc 2.70.030
+	SubIntention Data (SecuROM/LibCrypt): 
+
+Tracks and Write Offsets:
+	DAT:
+
+<rom name="DIVDIV-DISC3 (Track 0).bin" size="178752" crc="d23c81f4" md5="b363a2eed5437edac845a09d86d27043" sha1="ed71beaaca4a5ff19a5dfdb7ff6f6e499a4e4114" />
+<rom name="DIVDIV-DISC3.bin" size="788886672" crc="c37d21f2" md5="f4812409f48e86fa8c5f0fe23f0296c9" sha1="210d1d7a215b7af086a9755b0f88035b196f47b0" />
+
+	Cuesheet:
+
+FILE "DIVDIV-DISC3.bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+
+	Write Offset: -12
+
+Dumping Info:
+	Dumping Program: Redumper v2024.01.10 build_313
+	Date: 2024-02-11 09:32:17
+	Manufacturer: ASUS
+	Model: BW-16D1HT
+	Firmware: 3.10 (WM01601KL1N7F81700)
+	Reported Disc Type: CD-ROM
