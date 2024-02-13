@@ -1,0 +1,65 @@
+Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Giants: Citizen Kabuto
+	Disc Number / Letter: 2
+	Disc Title: CD 2/2
+	System: IBM PC compatible
+	Media Type: CD-ROM
+	Category: Games
+	Fully Matching ID: 32026
+	Region: Europe
+	Languages: English, French, German, Italian, Spanish
+	Disc Serial: CD2-C95-749-M26
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): SONOPRESS ROM A-46572/C95749M262 B
+Data Side Mastering SID Code: IFPI L0 30
+Data Side Mould SID Code: IFPI 0725
+
+	Barcode: 5 026102 002600 (English, Big Box)
+	Error Count: 0
+	Comments:
+		Jewel Case Back Serial: INL-C95-749-GEN
+		Jewel Case Front Serial: BKL-C95-749-GEN
+		Big Box Serial: FG-W95-749-E
+
+[T:VOL] /run/media/romatthe/GIANTS2/
+
+Version and Editions:
+	Version: 1.0
+	Edition/Release: Original, Big Box
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 30 31 32 30 31 31 36 32  35 31 34 00 00 04 32 30   01201162514...20
+0340 : 30 30 31 32 30 31 31 36  32 35 31 34 00 00 04 33   001201162514...3
+0350 : 30 30 30 31 32 30 31 31  36 32 35 31 33 00 00 04   0001201162513...
+0360 : 32 30 30 30 31 32 30 31  31 36 32 35 31 33 00 00   20001201162513..
+0370 : 04 01 00 54 61 6C 65 6E  00 00 00 00 00 00 00 00   ...Talen........
+
+Tracks and Write Offsets:
+	DAT:
+
+<rom name="GIANTS-DISC2.bin" size="783098400" crc="a7d603de" md5="7db0fd48c1c5ae867d6d5e3efd56b3ed" sha1="08a1fd9b2ae4f66f3ea40052c7fa8d46d625593f" />
+
+	Cuesheet:
+
+FILE "GIANTS-DISC2.bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+
+	Write Offset: -12
+
+Dumping Info:
+	Dumping Program: Redumper v2024.01.10 build_313
+	Date: 2024-02-04 13:44:28
+	Manufacturer: ASUS
+	Model: BW-16D1HT
+	Firmware: 3.10 (WM01601KL1N7F81700)
+	Reported Disc Type: CD-ROM
