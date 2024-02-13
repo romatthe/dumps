@@ -1,0 +1,62 @@
+Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Galactic Civilizations II: Gold Edition
+	Disc Number / Letter: 1
+	Disc Title: Disc 1 of 2
+	System: IBM PC compatible
+	Media Type: CD-ROM
+	Category: Games
+	Fully Matching ID: 44286
+	Region: USA
+	Languages: English
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): SD01051-1.1	SONOPRESS ARVATO	+ + G138001
+Data Side Mastering SID Code: IFPI L028
+Data Side Toolstamp or Mastering Code (engraved/stamped): A08
+Data Side Mould SID Code: IFPI 1086 (Very difficult to read even with a good mangnifier)
+
+	Barcode: 7 08192 01051 6 (Cardboard Box, English)
+	Error Count: 0
+	Comments:
+
+[T:VOL] /run/media/romatthe/GalCiv2 Gold D1/
+
+Version and Editions:
+	Version: 1.5
+	Edition/Release: Original, Cardboard Box (English)
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 37 30 31 31 36 31 39 35  34 31 30 37 35 EC 32 30   7011619541075.20
+0340 : 30 37 30 31 31 36 31 39  35 34 31 30 37 35 EC 32   07011619541075.2
+0350 : 31 30 37 30 31 31 36 31  39 35 34 31 30 37 35 EC   107011619541075.
+0360 : 32 30 30 37 30 31 31 36  31 39 35 34 31 30 37 35   2007011619541075
+0370 : EC 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Tracks and Write Offsets:
+	DAT:
+
+<rom name="GALCIV2GOLD-DISC1.bin" size="766222800" crc="638a39bd" md5="233eb00582620c90b876083ddc130674" sha1="e93b3c1ab10941f4e1ee58bcfe1df5cb2b4c2811" />
+
+	Cuesheet:
+
+FILE "GALCIV2GOLD-DISC1.bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+
+	Write Offset: -12
+
+Dumping Info:
+	Dumping Program: Redumper v2024.01.10 build_313
+	Date: 2024-02-13 14:20:54
+	Manufacturer: ASUS
+	Model: BW-16D1HT
+	Firmware: 3.10 (WM01601KL1N7F81700)
+	Reported Disc Type: CD-ROM
