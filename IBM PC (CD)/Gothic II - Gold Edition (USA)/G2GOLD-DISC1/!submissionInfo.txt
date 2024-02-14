@@ -1,0 +1,77 @@
+Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Gothic II: Gold Edition
+	Disc Number / Letter: 1
+	Disc Title: Disc One
+	System: IBM PC compatible
+	Media Type: CD-ROM
+	Category: Games
+	Fully Matching ID: 79852
+	Region: USA
+	Languages: English
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): C40267	1155155	ZOMAX-MN
+Data Side Mastering SID Code: IFPI LE31
+Data Side Mould SID Code: IFPI 3B59
+
+	Barcode: 6 18870 11131 5 (Cardboard Box, English)
+	Error Count: 0
+	Comments:
+
+[T:VOL] /run/media/romatthe/Gothic II CD1/
+
+Version and Editions:
+	Version: (REQUIRED, IF EXISTS)
+	Edition/Release: Original, Cardboard Box
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 35 31 30 30 35 31 33 31  38 30 30 30 30 EC 32 30   5100513180000.20
+0340 : 30 35 31 30 30 35 31 33  31 38 30 30 30 30 EC 30   05100513180000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+	Copy Protection: JoWood X-Prot 1.6.4.23, SecuROM 7.06.0000
+	SubIntention Data (SecuROM/LibCrypt):
+
+MSF: 00:01:74 Q-Data: 410100 00:40:01 00 00:03:74 2EF1
+MSF: 01:08:50 Q-Data: 410101 21:06:50 00 05:08:50 0A8F
+MSF: 01:46:25 Q-Data: 410101 03:44:25 00 41:46:25 D5FF
+MSF: 02:00:21 Q-Data: 410101 01:5C:21 00 02:20:21 F320
+MSF: 02:04:62 Q-Data: 410101 00:02:62 00 42:04:62 96ED
+MSF: 02:25:31 Q-Data: 410101 02:23:21 00 02:25:39 42E4
+MSF: 02:41:34 Q-Data: 410101 02:3D:34 00 02:61:34 6A7E
+MSF: 03:05:53 Q-Data: 410101 03:23:53 00 03:01:53 EFE0
+MSF: 03:11:21 Q-Data: 410101 23:09:21 00 07:11:21 A185
+MSF: 03:13:62 Q-Data: 410101 23:11:62 00 07:13:62 573C
+MSF: 03:24:43 Q-Data: 410101 03:22:47 00 03:24:63 BCF4
+
+Tracks and Write Offsets:
+	DAT:
+
+<rom name="G2GOLD-DISC1.bin" size="804917904" crc="ab5122d5" md5="ce8cf17e471228dd6c1e4f451a9a74ed" sha1="a139ff0398c609da9b8c3bffa62aeeb01558a7e5" />
+
+	Cuesheet:
+
+FILE "G2GOLD-DISC1.bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+
+	Write Offset: -12
+
+Dumping Info:
+	Dumping Program: Redumper v2024.01.10 build_313
+	Date: 2024-02-13 19:40:34
+	Manufacturer: ASUS
+	Model: BW-16D1HT
+	Firmware: 3.10 (WM01601KL1N7F81700)
+	Reported Disc Type: CD-ROM
