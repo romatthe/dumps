@@ -1,0 +1,62 @@
+Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Guild Wars
+	Disc Number / Letter: 2
+	Disc Title: Installer Disc 2
+	System: IBM PC compatible
+	Media Type: CD-ROM
+	Category: Games
+	Fully Matching ID: 27579
+	Region: USA, Europe
+	Languages: English, French, German, Italian, Korean, Spanish
+	Disc Serial: GW-EU-UK-C2
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): GW-EU-UK-C2
+Data Side Mastering SID Code: IFPI LT22
+
+	Barcode: 5 060094 440859 (Big DVD-style Case, English)
+	Error Count: 0
+	Comments:
+		DVD-style Case Serial: GW-EU-UK-DIA2
+
+[T:VOL] /run/media/romatthe/Guild Wars Disc 2/
+
+Version and Editions:
+	Version: (REQUIRED, IF EXISTS)
+	Edition/Release: Original, Big DVD-style Case (English)
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 35 30 34 30 31 30 34 34  39 31 31 30 30 E0 32 30   5040104491100.20
+0340 : 30 35 30 34 30 31 30 34  34 39 31 31 30 30 E0 30   05040104491100.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 55 4C 54 52 41  49 53 4F 00 37 2E 35 2E   ...ULTRAISO.7.5.
+
+Tracks and Write Offsets:
+	DAT:
+
+<rom name="GUILDWARS-DISC2.bin" size="752825808" crc="cedd7658" md5="e14ed9218abcae7ba2c065cf29419598" sha1="e9728bdd9119a559eb375a747a1a37928595fc0b" />
+
+	Cuesheet:
+
+FILE "GUILDWARS-DISC2.bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+
+	Write Offset: -12
+
+Dumping Info:
+	Dumping Program: Redumper v2024.01.10 build_313
+	Date: 2024-02-13 15:20:14
+	Manufacturer: ASUS
+	Model: BW-16D1HT
+	Firmware: 3.10 (WM01601KL1N7F81700)
+	Reported Disc Type: CD-ROM
