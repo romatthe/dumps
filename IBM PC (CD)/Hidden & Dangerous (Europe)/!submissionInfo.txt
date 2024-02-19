@@ -1,0 +1,63 @@
+Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Hidden & Dangerous
+	System: IBM PC compatible
+	Media Type: CD-ROM
+	Category: Games
+	Fully Matching ID: 31699
+	Region: Europe
+	Languages: English
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): DISCTRONICS	S HD/CDCRYST/E	01
+Data Side Mastering SID Code: IFPI L503
+Data Side Mould SID Code: IFPI 8726
+
+	Barcode: 5 026555 031462 (English, Jewel Case)
+	Error Count: 804
+	Comments:
+
+[T:VOL] /run/media/romatthe/H_D_English/
+
+Version and Editions:
+	Version: (REQUIRED, IF EXISTS)
+	Edition/Release: Original, Big Box
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 31 39 39                199
+0330 : 39 30 36 31 36 31 31 32  39 35 39 30 30 00 31 39   9061611295900.19
+0340 : 39 39 30 36 31 36 31 31  32 39 35 39 30 30 00 30   99061611295900.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+	Copy Protection: SafeDisc 1.06.000+, SafeDisc 1.11.000
+	SubIntention Data (SecuROM/LibCrypt): 
+
+Tracks and Write Offsets:
+	DAT:
+
+<rom name="H&amp;D.bin" size="788886672" crc="a3050a83" md5="02f67ebc3f61f89dbb5dbec62b489d4f" sha1="709f687df78d6755b506cadee2cec229d0a17ac8" />
+
+	Cuesheet:
+
+FILE "H&D.bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+
+	Write Offset: -12
+
+Dumping Info:
+	Dumping Program: Redumper v2024.01.10 build_313
+	Date: 2024-02-05 20:30:11
+	Manufacturer: ASUS
+	Model: BW-16D1HT
+	Firmware: 3.10 (WM01601KL1N7F81700)
+	Reported Disc Type: CD-ROM
